@@ -1,5 +1,5 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Jessi-whatsapp-bot-md",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+    "url": "git+https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
+    "url": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
+  "homepage": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2#readme"
 }
